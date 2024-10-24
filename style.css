@@ -1,0 +1,39 @@
+body {
+    background: #CCCCCC;
+}
+#banner{
+    width: 100%
+}
+.principal{
+    background: #CCCCCC
+}
+h1{
+    color: darkorchid;
+    background: yellow;
+    text-align: center;
+
+}
+p {
+    text-align:center;  
+    font-size: 35px ;
+}
+
+#missao{
+    font-size: 30px
+}
+
+em strong {
+    color: blue;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.benefícios {
+    background: floralwhite;
+}
+
+h2 {
+    text-align: center;
+}
